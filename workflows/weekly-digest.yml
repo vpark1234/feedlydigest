@@ -1,9 +1,9 @@
 name: Weekly Digest
 
 on:
-  # 12:00 UTC = 8:00 AM EDT (summer) / 7:00 AM EST (winter)
+  # 15:30 UTC = 7:30 AM PST (winter) / 8:30 AM PDT (summer), every Sunday
   schedule:
-    - cron: '0 12 * * 0'   # every Sunday
+    - cron: '30 15 * * 0'
 
   workflow_dispatch:
 
@@ -38,9 +38,8 @@ jobs:
       - name: Run weekly digest
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          SENDGRID_API_KEY: ${{ secrets.SENDGRID_API_KEY }}
-          FEEDLYVP_FROM_EMAIL: ${{ secrets.FEEDLYDIGEST_FROM_EMAIL }}
-          FEEDLYVP_TO_EMAIL: ${{ secrets.FEEDLYDIGEST_TO_EMAIL }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: python weekly_digest.py
 
       - name: Commit updated digest_log.json
@@ -52,3 +51,19 @@ jobs:
             && echo "No log changes to commit." \
             || git commit -m "chore: update weekly digest log [skip ci]"
           git push
+
+      - name: Send failure alert
+        if: failure()
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          python - <<'EOF'
+          import asyncio, os
+          from telegram import Bot
+          asyncio.run(Bot(os.environ["TELEGRAM_BOT_TOKEN"]).send_message(
+              chat_id=os.environ["TELEGRAM_CHAT_ID"],
+              text="⚠️ FeedlyVP weekly digest failed — check logs at https://github.com/vickypark/feedlydigest/actions",
+          ))
+          print("Failure alert sent to Telegram.")
+          EOF
