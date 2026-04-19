@@ -319,5 +319,14 @@
         "category": "Broad Tech News"
       }
     ]
+  },
+  {
+    "type": "weekly",
+    "date": "2026-04-19",
+    "run_at": "2026-04-19T16:03:27.412167+00:00",
+    "days_covered": 5,
+    "articles_featured": 13,
+    "telegram_messages_sent": 7,
+    "big_picture": "This week revealed that enterprise AI has moved beyond the \"model hype\" phase into operational reality, where data infrastructure bottlenecks and hardware constraints now determine deployment success more than algorithmic capabilities. The shift toward agentic AI platforms\u2014from Salesforce's AgentExchange to Oracle's 22 new apps\u2014signals that enterprise software purchasing decisions will increasingly center on AI integration depth rather than traditional feature comparisons, fundamentally changing how ERP consultants should evaluate vendor roadmaps. With RAM shortages projected through 2030 and enterprises prioritizing data sovereignty over benchmark performance, solution architects must now factor hardware availability and long-term infrastructure sustainability into their AI-enabled ERP strategies rather than chasing the latest model releases."
   }
 ]
