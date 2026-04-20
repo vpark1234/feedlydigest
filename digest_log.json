@@ -328,5 +328,98 @@
     "articles_featured": 13,
     "telegram_messages_sent": 7,
     "big_picture": "This week revealed that enterprise AI has moved beyond the \"model hype\" phase into operational reality, where data infrastructure bottlenecks and hardware constraints now determine deployment success more than algorithmic capabilities. The shift toward agentic AI platforms\u2014from Salesforce's AgentExchange to Oracle's 22 new apps\u2014signals that enterprise software purchasing decisions will increasingly center on AI integration depth rather than traditional feature comparisons, fundamentally changing how ERP consultants should evaluate vendor roadmaps. With RAM shortages projected through 2030 and enterprises prioritizing data sovereignty over benchmark performance, solution architects must now factor hardware availability and long-term infrastructure sustainability into their AI-enabled ERP strategies rather than chasing the latest model releases."
+  },
+  {
+    "type": "daily",
+    "date": "2026-04-20",
+    "run_at": "2026-04-20T09:43:39.592184+00:00",
+    "feeds_fetched": 15,
+    "feeds_failed": 0,
+    "articles_scored": 38,
+    "articles_sent": 10,
+    "telegram_messages_sent": 12,
+    "big_picture": "**Today's Big Picture:** Enterprise AI deployment is hitting a critical inflection point where the gap between marketing promises and operational reality is becoming impossible to ignore\u2014Chinese tech workers training their own AI replacements and the pushback against \"autonomous\" AI terminology both signal that organizations need honest frameworks for AI capabilities rather than aspirational ones. Meanwhile, significant technical breakthroughs in reasoning coordination (LACE), memory efficiency (KV cache compression), and selective fine-tuning (Aletheia) are maturing the infrastructure needed for practical enterprise AI deployment, moving beyond proof-of-concept toward production-ready systems. For ERP consultants and enterprise buyers, this means the window is closing on AI experimentation and opening on strategic implementation\u2014but success will depend on realistic expectations, robust change management, and technical architectures that can scale efficiently rather than simply scale expensively.",
+    "articles": [
+      {
+        "title": "Monday Morning Moan - stop saying autonomy, before things really get out of control",
+        "url": "https://diginomica.com/monday-morning-moan-stop-saying-autonomy-things-really-get-out-control",
+        "source": "Diginomica",
+        "score": 8,
+        "summary": "Article challenges the dangerous misuse of 'autonomous' terminology in AI discourse, arguing it creates unrealistic expectations about AI agency capabilities. Focuses on the critical distinction between AI assistance and true autonomy, with implications for enterprise AI deployment and regulation.",
+        "category": "Enterprise & ERP"
+      },
+      {
+        "title": "Chinese tech workers are starting to train their AI doubles\u2013and pushing back",
+        "url": "https://www.technologyreview.com/2026/04/20/1136149/chinese-tech-workers-ai-colleagues/",
+        "source": "MIT Technology Review",
+        "score": 9,
+        "summary": "Chinese tech workers are being required to train AI agents to replace themselves, creating workforce tensions and highlighting the real-world deployment of AI automation in enterprise settings. This represents a significant shift in how AI is being implemented organizationally, with workers directly participating in their own potential replacement.",
+        "category": "Tech Strategy & Analysis"
+      },
+      {
+        "title": "LACE: Lattice Attention for Cross-thread Exploration",
+        "url": "https://arxiv.org/abs/2604.15529",
+        "source": "arXiv - AI",
+        "score": 8,
+        "summary": "LACE introduces a novel framework that enables parallel reasoning paths in large language models to interact and share insights during inference, transforming isolated reasoning into coordinated parallel processes. This represents a significant advancement in AI agent systems by allowing concurrent reasoning threads to correct each other's mistakes.",
+        "category": "AI & Research"
+      },
+      {
+        "title": "The Spectral Geometry of Thought: Phase Transitions, Instruction Reversal, Token-Level Dynamics, and Perfect Correctness Prediction in How Transformers Reason",
+        "url": "https://arxiv.org/abs/2604.15350",
+        "source": "arXiv - Machine Learning",
+        "score": 8,
+        "summary": "Researchers identify seven core phenomena in how transformer models exhibit 'spectral phase transitions' in their hidden activation spaces when reasoning versus recalling facts, analyzing 11 models across 5 architecture families. The work reveals fundamental insights into how large language models process different types of cognitive tasks at the token level, with implications for understanding and improving AI reasoning capabilities.",
+        "category": "AI & Research"
+      },
+      {
+        "title": "Sequential KV Cache Compression via Probabilistic Language Tries: Beyond the Per-Vector Shannon Limit",
+        "url": "https://arxiv.org/abs/2604.15356",
+        "source": "arXiv - Machine Learning",
+        "score": 8,
+        "summary": "Research presents a novel approach to KV cache compression that exploits the sequential nature of transformer data, potentially moving beyond current entropy limits by leveraging the model's understanding of language structure. This could significantly improve memory efficiency in large language model deployment, addressing a key bottleneck in AI system scalability.",
+        "category": "AI & Research"
+      },
+      {
+        "title": "DeepER-Med: Advancing Deep Evidence-Based Research in Medicine Through Agentic AI",
+        "url": "https://arxiv.org/abs/2604.15456",
+        "source": "arXiv - AI",
+        "score": 7,
+        "summary": "Research paper presents DeepER-Med, an agentic AI system for evidence-based medical research that addresses trustworthiness and transparency issues in healthcare AI adoption. The system integrates AI agents with multi-hop information retrieval and reasoning while providing explicit criteria for evidence appraisal.",
+        "category": "AI & Research"
+      },
+      {
+        "title": "GIST: Multimodal Knowledge Extraction and Spatial Grounding via Intelligent Semantic Topology",
+        "url": "https://arxiv.org/abs/2604.15495",
+        "source": "arXiv - AI",
+        "score": 7,
+        "summary": "GIST presents a new approach for spatial grounding in complex environments using Vision-Language Models, addressing challenges in retail, warehouses, and hospitals. This advances embodied AI capabilities for navigation in semantically-rich, cluttered spaces where traditional computer vision struggles.",
+        "category": "AI & Research"
+      },
+      {
+        "title": "Bureaucratic Silences: What the Canadian AI Register Reveals, Omits, and Obscures",
+        "url": "https://arxiv.org/abs/2604.15514",
+        "source": "arXiv - AI",
+        "score": 7,
+        "summary": "Academic analysis of Canada's Federal AI Register examining how government transparency tools shape accountability boundaries for AI systems. The research uses systematic framework analysis to reveal what government AI registers reveal and obscure about algorithmic decision-making in public sector.",
+        "category": "AI & Research"
+      },
+      {
+        "title": "Preregistered Belief Revision Contracts",
+        "url": "https://arxiv.org/abs/2604.15558",
+        "source": "arXiv - AI",
+        "score": 7,
+        "summary": "Research introduces PBRC protocol to prevent dangerous conformity effects in multi-agent AI systems where agents may converge on false conclusions due to social influence rather than evidence. The mechanism separates communication from belief revision to maintain epistemic integrity in deliberative AI systems.",
+        "category": "AI & Research"
+      },
+      {
+        "title": "Aletheia: Gradient-Guided Layer Selection for Efficient LoRA Fine-Tuning Across Architectures",
+        "url": "https://arxiv.org/abs/2604.15351",
+        "source": "arXiv - Machine Learning",
+        "score": 7,
+        "summary": "Aletheia introduces a gradient-guided method to selectively apply LoRA adapters only to the most task-relevant transformer layers, making fine-tuning more efficient. This represents a meaningful optimization for enterprise deployment of large language models where compute efficiency directly impacts business economics.",
+        "category": "AI & Research"
+      }
+    ]
   }
 ]
