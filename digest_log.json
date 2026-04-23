@@ -889,5 +889,98 @@
         "category": "Broad Tech News"
       }
     ]
+  },
+  {
+    "type": "daily",
+    "date": "2026-04-23",
+    "run_at": "2026-04-23T16:58:05.120502+00:00",
+    "feeds_fetched": 15,
+    "feeds_failed": 0,
+    "articles_scored": 43,
+    "articles_sent": 10,
+    "telegram_messages_sent": 12,
+    "big_picture": "**Today's Big Picture:** Major enterprise technology companies are experiencing unprecedented leadership upheaval\u2014from Tim Cook's departure at Apple to widespread executive exits at Microsoft and internal questioning at Palantir\u2014signaling that even industry giants are struggling to navigate the AI transformation while maintaining organizational stability. Meanwhile, the gap between AI hype and operational reality is becoming stark, with service AI implementations failing due to poor context integration and companies like Anthropic already restricting popular tools due to cost pressures, revealing that sustainable AI deployment requires fundamental rethinking of data architecture and business models rather than bolt-on solutions. For enterprise software buyers and ERP consultants, this convergence of leadership instability and AI implementation challenges suggests that near-term technology decisions should prioritize vendors with proven data integration capabilities and stable organizational foundations over those chasing the latest AI features without clear monetization paths.",
+    "articles": [
+      {
+        "title": "AI agents won\u2019t kill shopping \u2013 but agentic commerce could make most of it redundant",
+        "url": "https://diginomica.com/ai-agents-kill-shopping-agentic-commerce-make-redundant",
+        "source": "Diginomica",
+        "score": 8,
+        "summary": "Klaviyo co-CEOs discuss how AI agents will fundamentally transform commerce by automating product discovery and evaluation, potentially making traditional shopping experiences obsolete. This represents a major shift in business models and consumer behavior driven by agentic AI systems.",
+        "category": "Enterprise & ERP"
+      },
+      {
+        "title": "Why Service AI keeps failing - and how to fix it",
+        "url": "https://diginomica.com/why-service-ai-keeps-failing-and-how-fix-it",
+        "source": "Diginomica",
+        "score": 8,
+        "summary": "Atlassian executive explains why enterprise AI deployments in service teams are failing due to lack of proper context integration. Addresses a critical gap in how companies are structuring AI implementations for real-world business operations.",
+        "category": "Enterprise & ERP"
+      },
+      {
+        "title": "Adobe Summit 2026 - outgoing CEO Shantana Narayen on the state of the Adobe nation he leaves behind",
+        "url": "https://diginomica.com/adobe-summit-2026-outgoing-ceo-shantana-narayen-state-adobe-nation-he-leaves-behind",
+        "source": "Diginomica",
+        "score": 7,
+        "summary": "Adobe's outgoing CEO discusses the company's position as creative consumers and enterprises undergo major AI-driven transformation. This represents significant leadership transition at a key creative software platform during a period of industry upheaval.",
+        "category": "Enterprise & ERP"
+      },
+      {
+        "title": "NatWest launches Venture Banking with AWS partnership - and the data architecture story behind it",
+        "url": "https://diginomica.com/natwest-launches-venture-banking-aws-partnership-and-data-architecture-story-behind-it",
+        "source": "Diginomica",
+        "score": 7,
+        "summary": "NatWest partners with AWS to launch Venture Banking, with focus on data architecture as foundation for financial services AI initiatives. AWS executive discusses how major financial institutions like NatWest, Allianz, and others are tackling data consolidation challenges that determine AI success.",
+        "category": "Enterprise & ERP"
+      },
+      {
+        "title": "Tim Cook\u2019s departure is the start of a new era at Apple",
+        "url": "https://www.theverge.com/tech/916585/tim-cook-apple-new-era",
+        "source": "The Verge",
+        "score": 9,
+        "summary": "Apple CEO Tim Cook is reportedly stepping down in September to be replaced by hardware chief John Ternus, marking a major leadership transition at one of the world's most influential tech companies. This represents the most significant executive change at Apple since Cook succeeded Steve Jobs, potentially reshaping the company's strategic direction.",
+        "category": "Broad Tech News"
+      },
+      {
+        "title": "Researchers Simulated a Delusional User to Test Chatbot Safety",
+        "url": "https://www.404media.co/delusion-using-chatgpt-gemini-claude-grok-safety-ai-psychosis-study/",
+        "source": "404 Media",
+        "score": 7,
+        "summary": "Researchers tested how major AI chatbots respond to delusional users, finding significant variations in safety responses between models like Grok/Gemini versus ChatGPT/Claude. This highlights critical AI safety and alignment challenges as these models become more widely deployed in enterprise and consumer applications.",
+        "category": "Tech Strategy & Analysis"
+      },
+      {
+        "title": "You\u2019re about to feel the AI money squeeze",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/917380/ai-monetization-anthropic-openai-token-economics-revenue",
+        "source": "The Verge",
+        "score": 8,
+        "summary": "The article discusses Anthropic restricting OpenClaw, a viral AI agent tool, due to system strain and pressure to monetize. This reflects broader challenges facing AI labs as they balance free access with operational costs and profitability demands.",
+        "category": "Broad Tech News"
+      },
+      {
+        "title": "Palantir Employees Are Starting to Wonder if They're the Bad Guys",
+        "url": "https://www.wired.com/story/palantir-employees-are-starting-to-wonder-if-theyre-the-bad-guys/",
+        "source": "Wired",
+        "score": 7,
+        "summary": "Internal turmoil at Palantir reveals employee concerns about the company's controversial government and surveillance work. The workforce questioning suggests potential talent retention issues at a major enterprise AI and data analytics provider.",
+        "category": "Broad Tech News"
+      },
+      {
+        "title": "Inside Microsoft\u2019s wave of executive departures",
+        "url": "https://www.theverge.com/tech/917361/microsoft-executive-departures-notepad",
+        "source": "The Verge",
+        "score": 7,
+        "summary": "Microsoft is experiencing a notable wave of senior executive departures this year, with some triggering major organizational changes across the company's largest business units. The pace of leadership turnover appears unusually high for this early in the year.",
+        "category": "Broad Tech News"
+      },
+      {
+        "title": "THE PEOPLE DO NOT YEARN FOR AUTOMATION",
+        "url": "https://www.theverge.com/podcast/917029/software-brain-ai-backlash-databases-automation",
+        "source": "The Verge",
+        "score": 7,
+        "summary": "The Verge's Decoder podcast explores the concept of 'software brain' - a worldview that tries to fit everything into algorithmic solutions. The discussion appears to critique the assumption that people want widespread automation, touching on broader questions about AI deployment and human preferences.",
+        "category": "Broad Tech News"
+      }
+    ]
   }
 ]
