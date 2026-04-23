@@ -53,6 +53,8 @@ jobs:
           git diff --staged --quiet \
             && echo "No state changes to commit." \
             || git commit -m "chore: update digest state [skip ci]"
+          git fetch origin main
+          git rebase origin/main
           git push
 
       - name: Send failure alert
