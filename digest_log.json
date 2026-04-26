@@ -1152,5 +1152,34 @@
         "category": "Broad Tech News"
       }
     ]
+  },
+  {
+    "type": "daily",
+    "date": "2026-04-26",
+    "run_at": "2026-04-26T16:02:55.113659+00:00",
+    "feeds_fetched": 15,
+    "feeds_failed": 0,
+    "articles_scored": 34,
+    "articles_sent": 2,
+    "telegram_messages_sent": 4,
+    "big_picture": "**Today's Big Picture**\n\nThe rapid obsolescence of AI coding benchmarks and the upheaval in federal science leadership signal we're entering a period of unprecedented technological acceleration coupled with policy uncertainty. For enterprise software buyers, this means AI-powered development tools and coding assistants will likely advance faster than traditional evaluation frameworks can measure, making vendor selection increasingly challenging but potentially more rewarding for early adopters. ERP consultants should prepare clients for a landscape where AI capabilities may outpace standardized assessments while federal research funding shifts could create new competitive dynamics among technology providers who rely on government-supported innovation.",
+    "articles": [
+      {
+        "title": "Why SWE-bench Verified no longer measures frontier coding capabilities",
+        "url": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/",
+        "source": "Hacker News",
+        "score": 8,
+        "summary": "SWE-bench Verified, a key benchmark for measuring AI coding capabilities, is being critiqued for no longer accurately reflecting frontier model performance. This highlights the rapid advancement of AI coding agents and the challenge of maintaining relevant evaluation standards.",
+        "category": "Community & Practitioner"
+      },
+      {
+        "title": "Trump fires the entire National Science Board",
+        "url": "https://www.theverge.com/science/918769/trump-fires-the-entire-national-science-board",
+        "source": "The Verge",
+        "score": 7,
+        "summary": "Trump administration dismisses entire National Science Board, which advises on NSF funding that supports fundamental research including AI and technology development. This could significantly impact federal science policy and research funding that underpins technology innovation.",
+        "category": "Broad Tech News"
+      }
+    ]
   }
 ]
