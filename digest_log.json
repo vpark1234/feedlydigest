@@ -1546,5 +1546,14 @@
         "category": "Broad Tech News"
       }
     ]
+  },
+  {
+    "type": "weekly",
+    "date": "2026-05-03",
+    "run_at": "2026-05-03T16:11:11.537678+00:00",
+    "days_covered": 5,
+    "articles_featured": 12,
+    "telegram_messages_sent": 7,
+    "big_picture": "This week revealed enterprise AI's growing pains as fundamental infrastructure limitations clash with rapid technological advancement, with companies struggling to rebuild data stacks while key benchmarks like SWE-bench Verified already fail to measure frontier AI capabilities. The dissolution of Microsoft-OpenAI's exclusive partnership signals a maturing but increasingly fragmented AI vendor landscape, while research on LLM bias and refusal mechanisms highlights critical reliability concerns that enterprise buyers must now factor into procurement decisions. For ERP consultants, the emphasis on AI transparency from vendors like Sage, combined with workforce anxiety evident at Salesforce's TDX, suggests that successful implementations will increasingly depend on change management strategies that prioritize explainable AI and clear governance frameworks over pure technological capability."
   }
 ]
