@@ -1525,5 +1525,26 @@
         "category": "Broad Tech News"
       }
     ]
+  },
+  {
+    "type": "daily",
+    "date": "2026-05-03",
+    "run_at": "2026-05-03T16:06:37.563251+00:00",
+    "feeds_fetched": 15,
+    "feeds_failed": 0,
+    "articles_scored": 36,
+    "articles_sent": 1,
+    "telegram_messages_sent": 3,
+    "big_picture": "Today's Big Picture: Meta's $375 million child safety settlement with New Mexico signals a new era of aggressive regulatory enforcement that will likely cascade across the entire enterprise software landscape, forcing companies to dramatically elevate their compliance and safety frameworks. This precedent suggests that software vendors can no longer rely on traditional liability limitations when their platforms cause demonstrable harm, creating significant new risk calculations for enterprise buyers who must now evaluate vendors' regulatory exposure alongside technical capabilities. ERP solution consultants should immediately begin incorporating regulatory compliance assessments and vendor liability reviews into their evaluation frameworks, as the days of treating legal risk as a secondary consideration are rapidly ending.",
+    "articles": [
+      {
+        "title": "Meta&#8217;s historic loss in court could cost a lot more than $375 million",
+        "url": "https://www.theverge.com/policy/922380/new-mexico-meta-public-nuisance-trial-kids-safety",
+        "source": "The Verge",
+        "score": 7,
+        "summary": "New Mexico won a $375 million settlement against Meta in a child safety case, with potentially larger consequences ahead as legal proceedings continue. This represents a significant regulatory and legal precedent that could reshape how social media platforms handle child safety and face liability.",
+        "category": "Broad Tech News"
+      }
+    ]
   }
 ]
