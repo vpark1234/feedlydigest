@@ -1680,5 +1680,138 @@
         "category": "Broad Tech News"
       }
     ]
+  },
+  {
+    "type": "daily",
+    "date": "2026-05-05",
+    "run_at": "2026-05-05T17:02:12.782532+00:00",
+    "feeds_fetched": 15,
+    "feeds_failed": 0,
+    "articles_scored": 64,
+    "articles_sent": 15,
+    "telegram_messages_sent": 17,
+    "big_picture": "**Today's Big Picture:** ServiceNow's Knowledge 2026 announcements signal that enterprise software is rapidly consolidating around comprehensive AI governance platforms rather than point solutions, forcing buyers to evaluate vendors based on their ability to orchestrate autonomous workflows across entire business functions rather than individual capabilities. The convergence of technical advances in agentic AI systems (as evidenced by industrial applications like TADI) with high-stakes industry battles like Musk v. Altman suggests that 2026 will be a pivotal year where AI infrastructure choices become permanent competitive advantages or disadvantages for enterprises. For ERP consultants, this means shifting focus from traditional system integration to AI governance architecture, as clients will increasingly need unified platforms that can manage autonomous agents across finance, operations, and compliance rather than fragmented best-of-breed solutions.",
+    "articles": [
+      {
+        "title": "ServiceNow Knowledge 2026 - AI Control Tower expands, Autonomous Workforce reaches every function, and the acquisition strategy starts to add up",
+        "url": "https://diginomica.com/servicenow-knowledge-2026-ai-control-tower-expands-autonomous-workforce-reaches-every-function-and",
+        "source": "Diginomica",
+        "score": 9,
+        "summary": "ServiceNow's Knowledge 2026 announcements reveal how their strategic acquisitions (Armis, Veza, Traceloop) are cohering into a comprehensive AI governance platform. The expanded AI Control Tower and Autonomous Workforce extending across enterprise functions signals a major shift toward enterprise-wide AI orchestration and governance.",
+        "category": "Enterprise & ERP"
+      },
+      {
+        "title": "The next era of work is intelligent, autonomous, and governed",
+        "url": "https://diginomica.com/next-era-work-intelligent-autonomous-and-governed",
+        "source": "Diginomica",
+        "score": 9,
+        "summary": "ServiceNow executive argues that agentic AI must be deeply integrated into workflow engines and governed by enterprise policies rather than added as superficial bolt-on solutions. This represents a strategic positioning on how enterprise AI agents should be architected for real business value.",
+        "category": "Enterprise & ERP"
+      },
+      {
+        "title": "ServiceNow Knowledge 2026 - the vendor\u2019s second reinvention is fully underway",
+        "url": "https://diginomica.com/servicenow-knowledge-2026-vendors-second-reinvention-fully-underway",
+        "source": "Diginomica",
+        "score": 8,
+        "summary": "ServiceNow is undergoing its second major strategic reinvention, pivoting toward AI-driven enterprise workflows and autonomous systems. The analysis examines how the company's transformation aligns with broader enterprise AI adoption trends.",
+        "category": "Enterprise & ERP"
+      },
+      {
+        "title": "You're in the army now! Why Trump 2.0 is drafting more enterprise tech vendors into its \"AI-first War Department\"",
+        "url": "https://diginomica.com/youre-army-now-why-trump-20-drafting-more-enterprise-tech-vendors-its-ai-first-war-department",
+        "source": "Diginomica",
+        "score": 8,
+        "summary": "Trump administration is expanding Department of Defense AI initiatives by recruiting major enterprise technology vendors, indicating significant policy and procurement shifts in government AI adoption. This represents a major strategic move affecting enterprise software vendors and defense contracting dynamics.",
+        "category": "Enterprise & ERP"
+      },
+      {
+        "title": "What Jobs Can AI Learn? Measuring Exposure by Reinforcement Learning",
+        "url": "https://arxiv.org/abs/2605.02598",
+        "source": "arXiv - Economics & Tech Policy",
+        "score": 9,
+        "summary": "Academic research using reinforcement learning to systematically measure which jobs AI can actually learn to perform across the entire US economy, going beyond surface-level task overlap to assess true learnability. This directly addresses the critical strategic question of AI's realistic impact on labor markets and business operations.",
+        "category": "AI & Research"
+      },
+      {
+        "title": "How National Australia Bank is banking on resilience through simplification and modernization of its tech stack",
+        "url": "https://diginomica.com/how-national-australia-bank-banking-resilience-through-simplification-and-modernization-its-tech",
+        "source": "Diginomica",
+        "score": 7,
+        "summary": "National Australia Bank is modernizing its technology stack with a focus on simplification and customer-centricity under CEO Andrew Irvine. The article discusses the bank's strategic tech transformation efforts to improve resilience and operational efficiency.",
+        "category": "Enterprise & ERP"
+      },
+      {
+        "title": "Do we really need humans in the loop? Some thoughts on where it helps and where it slows things down in Marketing",
+        "url": "https://diginomica.com/do-we-really-need-humans-loop-some-thoughts-where-it-helps-and-where-it-slows-things-down-marketing",
+        "source": "Diginomica",
+        "score": 7,
+        "summary": "Article explores the evolving role of human oversight in AI-powered marketing workflows, examining where human-in-the-loop approaches add value versus where they create bottlenecks. Discusses the strategic implications of autonomous AI systems in marketing operations.",
+        "category": "Enterprise & ERP"
+      },
+      {
+        "title": "The Download: inside the Musk v. Altman trial, and AI for democracy",
+        "url": "https://www.technologyreview.com/2026/05/05/1136848/the-download-musk-openai-altman-trial-ai-democracy/",
+        "source": "MIT Technology Review",
+        "score": 8,
+        "summary": "Coverage of the high-stakes legal battle between Elon Musk and Sam Altman, two pivotal figures whose conflict could reshape AI industry dynamics and governance. The trial likely involves fundamental questions about OpenAI's direction, commercial partnerships, and the broader competitive landscape in AI.",
+        "category": "Tech Strategy & Analysis"
+      },
+      {
+        "title": "Week one of the Musk v. Altman trial: What it was like in the room",
+        "url": "https://www.technologyreview.com/2026/05/04/1136826/week-one-of-the-musk-v-altman-trial-what-it-was-like-in-the-room/",
+        "source": "MIT Technology Review",
+        "score": 8,
+        "summary": "Court proceedings between Elon Musk and Sam Altman over OpenAI's direction and alleged breach of founding principles. This legal battle could reshape AI governance and the competitive dynamics between major AI players.",
+        "category": "Tech Strategy & Analysis"
+      },
+      {
+        "title": "TADI: Tool-Augmented Drilling Intelligence via Agentic LLM Orchestration over Heterogeneous Wellsite Data",
+        "url": "https://arxiv.org/abs/2605.00060",
+        "source": "arXiv - AI",
+        "score": 8,
+        "summary": "TADI demonstrates advanced agentic AI system architecture applied to enterprise drilling operations, showcasing how AI agents can orchestrate complex workflows across heterogeneous industrial data sources. This represents a significant real-world deployment of agent systems in enterprise settings, with practical implications for how AI transforms operational intelligence in industrial sectors.",
+        "category": "AI & Research"
+      },
+      {
+        "title": "AgentReputation: A Decentralized Agentic AI Reputation Framework",
+        "url": "https://arxiv.org/abs/2605.00073",
+        "source": "arXiv - AI",
+        "score": 8,
+        "summary": "This research addresses a critical infrastructure challenge for emerging decentralized AI agent marketplaces, proposing a reputation framework to handle strategic gaming and cross-task competence verification. The work tackles fundamental trust and reliability issues that will determine whether agentic AI systems can scale in enterprise environments.",
+        "category": "AI & Research"
+      },
+      {
+        "title": "Minimal, Local, Causal Explanations for Jailbreak Success in Large Language Models",
+        "url": "https://arxiv.org/abs/2605.00123",
+        "source": "arXiv - AI",
+        "score": 8,
+        "summary": "Research paper analyzes why safety-trained large language models remain vulnerable to jailbreak attacks by examining causal explanations in model representations. This work addresses critical safety concerns for future autonomous AI systems operating in high-stakes environments.",
+        "category": "AI & Research"
+      },
+      {
+        "title": "Are Tools All We Need? Unveiling the Tool-Use Tax in LLM Agents",
+        "url": "https://arxiv.org/abs/2605.00136",
+        "source": "arXiv - AI",
+        "score": 8,
+        "summary": "Research paper analyzes the 'tool-use tax' in LLM agents, finding that tool-augmented reasoning doesn't always outperform native reasoning when semantic distractors are present. The study introduces a framework to isolate the costs of prompt formatting, tool-calling overhead, and actual tool execution benefits.",
+        "category": "AI & Research"
+      },
+      {
+        "title": "TUR-DPO: Topology- and Uncertainty-Aware Direct Preference Optimization",
+        "url": "https://arxiv.org/abs/2605.00224",
+        "source": "arXiv - AI",
+        "score": 8,
+        "summary": "TUR-DPO presents a novel approach to aligning large language models with human preferences by incorporating topology and uncertainty awareness, addressing key limitations in current Direct Preference Optimization methods. This technical advancement could significantly improve the reliability and reasoning capabilities of AI systems used in enterprise applications.",
+        "category": "AI & Research"
+      },
+      {
+        "title": "A blueprint for using AI to strengthen democracy",
+        "url": "https://www.technologyreview.com/2026/05/05/1136843/ai-democracy-blueprint/",
+        "source": "MIT Technology Review",
+        "score": 7,
+        "summary": "MIT Technology Review explores how AI could be used to strengthen democratic institutions and governance, drawing parallels to how past information technologies reshaped society. The piece likely covers AI policy implications and regulatory considerations for democratic systems.",
+        "category": "Tech Strategy & Analysis"
+      }
+    ]
   }
 ]
