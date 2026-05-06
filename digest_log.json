@@ -1813,5 +1813,138 @@
         "category": "Tech Strategy & Analysis"
       }
     ]
+  },
+  {
+    "type": "daily",
+    "date": "2026-05-06",
+    "run_at": "2026-05-06T16:58:44.020069+00:00",
+    "feeds_fetched": 15,
+    "feeds_failed": 0,
+    "articles_scored": 63,
+    "articles_sent": 15,
+    "telegram_messages_sent": 17,
+    "big_picture": "**Today's Big Picture**: The enterprise software landscape is rapidly shifting from AI experimentation to operational reality, with major vendors like Atlassian, ServiceNow, and Twilio positioning context and orchestration\u2014not raw AI capabilities\u2014as their key differentiators in managing what ServiceNow's CEO warns could become \"agentic chaos.\" This strategic pivot is already driving workforce restructuring, as evidenced by Freshworks' 11% layoffs due to AI automation, while simultaneously creating new infrastructure bottlenecks around power and deployment capabilities that companies like Bloom Energy are racing to solve. For enterprise software buyers and ERP consultants, the message is clear: the window for AI pilots is closing, and success will depend on choosing platforms that can orchestrate multiple AI agents while providing the governance, context, and integration capabilities needed to avoid the operational chaos that unmanaged AI proliferation threatens to create.",
+    "articles": [
+      {
+        "title": "Atlassian Team '26 \u2013 why context, not 'just AI', is the bet behind Rovo, the Teamwork Graph and Dia",
+        "url": "https://diginomica.com/atlassian-team-26-context-not-just-ai-rovo-teamwork-graph-dia",
+        "source": "Diginomica",
+        "score": 8,
+        "summary": "Atlassian CEO Mike Cannon-Brookes argues that context, not AI models, is the key differentiator for enterprise AI, discussing the company's strategic approach with Rovo and the Teamwork Graph. This represents a significant strategic positioning from a major enterprise software vendor on how to compete in the AI era.",
+        "category": "Enterprise & ERP"
+      },
+      {
+        "title": "A tsunami of AI demand will blossom into a bright future for Bloom Energy, argues CEO KR Sridhar. Here's why time-to-power is what's critical now",
+        "url": "https://diginomica.com/tsunani-ai-demand-will-blossom-bright-future-bloom-energy-argues-ceo-kr-srindhar-heres-why-time",
+        "source": "Diginomica",
+        "score": 8,
+        "summary": "Oracle's new deal with Bloom Energy addresses the critical AI infrastructure bottleneck where power demand from AI workloads is outstripping data center supply capacity. The CEO argues that time-to-power delivery, not just capacity, is becoming the key differentiator for AI infrastructure providers.",
+        "category": "Enterprise & ERP"
+      },
+      {
+        "title": "Modernizing the tech stack is a critical priority for PayPal, but CEO Enrique Lores has more to do to deliver success in an agentic AI era",
+        "url": "https://diginomica.com/modernizing-tech-stack-critical-priority-paypal-ceo-enrique-lores-has-more-do-deliver-success",
+        "source": "Diginomica",
+        "score": 8,
+        "summary": "PayPal CEO Enrique Lores is modernizing the company's tech stack with focus on agentic AI implementation. The article discusses strategic technology transformation at a major fintech company during the shift toward AI-driven autonomous systems.",
+        "category": "Enterprise & ERP"
+      },
+      {
+        "title": "Why Freshworks is laying off 11% of its workforce as AI takes over the majority of coding work",
+        "url": "https://diginomica.com/why-freshworks-laying-11-its-workforce-ai-takes-over-majority-coding-work",
+        "source": "Diginomica",
+        "score": 8,
+        "summary": "Freshworks is cutting 11% of its workforce as AI automation takes over coding tasks, reflecting broader enterprise software industry transformation. The layoffs highlight how AI is reshaping both product development and business models at major SaaS companies.",
+        "category": "Enterprise & ERP"
+      },
+      {
+        "title": "ServiceNow Knowledge 2026 - CEO Bill McDermott says AI intelligence is commoditizing, but chaos is coming",
+        "url": "https://diginomica.com/knowledge-2026-ceo-bill-mcdermott-says-ai-intelligence-commoditizing-chaos-coming",
+        "source": "Diginomica",
+        "score": 8,
+        "summary": "ServiceNow CEO Bill McDermott warns of 'agentic chaos' in enterprise AI deployment while positioning the company's platform as a solution to manage AI agent proliferation. The keynote addresses critical strategic concerns about AI commoditization and the need for enterprise orchestration platforms.",
+        "category": "Enterprise & ERP"
+      },
+      {
+        "title": "Today's topic of conversation - Twilio's pitch for next-generation customer engagement in the agentic era",
+        "url": "https://diginomica.com/todays-topic-conversation-twilios-pitch-next-generation-customer-engagement-agentic-era",
+        "source": "Diginomica",
+        "score": 7,
+        "summary": "Twilio announces new conversation capabilities at their Signal Conference focused on supporting AI agent-driven customer engagement. The announcement targets the emerging 'agentic era' where AI agents handle more sophisticated customer interactions.",
+        "category": "Enterprise & ERP"
+      },
+      {
+        "title": "How HR can lead the human side of AI transformation",
+        "url": "https://diginomica.com/how-hr-lead-human-side-ai-transformation",
+        "source": "Diginomica",
+        "score": 7,
+        "summary": "Oracle executive discusses HR's role in enterprise AI adoption, focusing on workforce readiness and cultural transformation. Addresses the strategic challenge of moving from AI experimentation to productive implementation across organizations.",
+        "category": "Enterprise & ERP"
+      },
+      {
+        "title": "The Trump administration's AI doomer moment",
+        "url": "https://www.platformer.news/trump-administration-doomers-ai/",
+        "source": "Platformer",
+        "score": 8,
+        "summary": "The Trump administration is reportedly shifting its stance on AI safety concerns, moving from dismissive attitudes to taking potential AI risks more seriously following developments with new frontier models. This represents a significant policy pivot that could reshape AI regulation and governance approaches.",
+        "category": "Tech Strategy & Analysis"
+      },
+      {
+        "title": "Understanding Emergent Misalignment via Feature Superposition Geometry",
+        "url": "https://arxiv.org/abs/2605.00842",
+        "source": "arXiv - AI",
+        "score": 8,
+        "summary": "Research paper presents a geometric theory for why AI models develop harmful behaviors during fine-tuning, explaining emergent misalignment through feature superposition where related features get unintentionally strengthened. This addresses a fundamental AI safety challenge that's critical for enterprise AI deployment.",
+        "category": "AI & Research"
+      },
+      {
+        "title": "ClinicBot: A Guideline-Grounded Clinical Chatbot with Prioritized Evidence RAG and Verifiable Citations",
+        "url": "https://arxiv.org/abs/2605.00846",
+        "source": "arXiv - AI",
+        "score": 8,
+        "summary": "ClinicBot introduces a novel RAG system for clinical diagnosis that prioritizes evidence from medical guidelines and provides verifiable citations to address AI hallucination in healthcare. This represents a significant advancement in deploying AI agents for high-stakes professional domains where accuracy and trust are paramount.",
+        "category": "AI & Research"
+      },
+      {
+        "title": "Did US Worker Retraining Reduce Participant Automation Exposure?",
+        "url": "https://arxiv.org/abs/2605.03767",
+        "source": "arXiv - Economics & Tech Policy",
+        "score": 8,
+        "summary": "Research analyzes 23 million US worker retraining records to assess whether government programs help workers transition away from automation-vulnerable jobs. Findings suggest retraining programs largely fail to reduce workers' exposure to automation, with most participants returning to similar roles.",
+        "category": "AI & Research"
+      },
+      {
+        "title": "Your Claude agents can 'dream' now - how Anthropic's new feature works",
+        "url": "https://www.zdnet.com/article/your-claude-agents-can-dream-now-how-anthropics-new-feature-works/",
+        "source": "ZDNet Enterprise",
+        "score": 7,
+        "summary": "Anthropic introduces a new 'dreaming' feature for Claude agents, representing another step in humanizing AI products and advancing agentic AI capabilities. The development signals continued progress in AI agent systems that could impact enterprise workflows.",
+        "category": "Enterprise & ERP"
+      },
+      {
+        "title": "Show HN: Tilde.run \u2013 Agent Sandbox with a Transactional, Versioned Filesystem",
+        "url": "https://tilde.run/",
+        "source": "Hacker News",
+        "score": 8,
+        "summary": "Tilde.run introduces a sandbox environment for AI agents with transactional and versioned filesystem capabilities, addressing critical infrastructure needs for safe agent deployment. This represents important foundational technology for enterprise AI agent systems that need reliable rollback and isolation mechanisms.",
+        "category": "Community & Practitioner"
+      },
+      {
+        "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
+        "url": "https://blog.cloudflare.com/agents-stripe-projects/",
+        "source": "Hacker News",
+        "score": 8,
+        "summary": "AI agents can now autonomously create Cloudflare accounts, purchase domains, and deploy infrastructure, demonstrating significant advancement in autonomous workflow capabilities. This represents a concrete example of AI agents moving beyond simple tasks to complex, multi-step business operations that could reshape how companies manage infrastructure and operations.",
+        "category": "Community & Practitioner"
+      },
+      {
+        "title": "2026 Roadmap on Artificial Intelligence and Machine Learning for Smart Manufacturing",
+        "url": "https://arxiv.org/abs/2605.00839",
+        "source": "arXiv - AI",
+        "score": 7,
+        "summary": "This arXiv paper outlines a 2026 roadmap for AI/ML deployment in smart manufacturing, addressing critical challenges like industrial big data complexity, system integration, and the need for trustworthy AI in high-stakes industrial environments. It represents substantive research on how AI is reshaping manufacturing operations and industrial value chains.",
+        "category": "AI & Research"
+      }
+    ]
   }
 ]
