@@ -1946,5 +1946,138 @@
         "category": "AI & Research"
       }
     ]
+  },
+  {
+    "type": "daily",
+    "date": "2026-05-07",
+    "run_at": "2026-05-07T17:14:25.063869+00:00",
+    "feeds_fetched": 15,
+    "feeds_failed": 0,
+    "articles_scored": 66,
+    "articles_sent": 15,
+    "telegram_messages_sent": 17,
+    "big_picture": "**Today's Big Picture:** Enterprise AI has decisively shifted from a technical implementation challenge to a governance and trust crisis, with major companies like Standard Chartered and Uber reporting that managing AI agents safely matters more than building them. The fundamental tension playing out across ServiceNow, Atlassian, and Boomi is whether AI infrastructure or contextual data access creates more enterprise value\u2014while research reveals a widening gap between executive AI expectations and frontline worker realities. For ERP consultants and enterprise buyers, this means 2026 will be defined by proving AI systems can operate reliably within existing governance frameworks rather than chasing the latest agentic capabilities, especially as security threats like real-time deepfakes make trust verification paramount.",
+    "articles": [
+      {
+        "title": "ServiceNow Knowledge 2026 - Standard Chartered, Hitachi Energy and State of Hawaii on why governing AI agents matters more than building them",
+        "url": "https://diginomica.com/servicenow-knowledge-2026-standard-chartered-hitachi-energy-and-state-hawaii-why-governing-ai",
+        "source": "Diginomica",
+        "score": 9,
+        "summary": "Enterprise customers Standard Chartered, Hitachi Energy, and State of Hawaii discuss real-world AI agent deployments with ServiceNow, highlighting that governance challenges now outweigh technical implementation hurdles. This represents a maturation of enterprise AI from experimentation to production-scale operational concerns.",
+        "category": "Enterprise & ERP"
+      },
+      {
+        "title": "Atlassian Team \u201926 \u2013 Pythian on teamwork graph, MCP and the AI governance hangover",
+        "url": "https://diginomica.com/atlassian-team-26-pythian-teamwork-graph-mcp-and-ai-governance-hangover",
+        "source": "Diginomica",
+        "score": 8,
+        "summary": "Article examines Atlassian's teamwork graph and MCP (Model Context Protocol) implementation challenges in enterprise environments, focusing on AI governance issues when AI agents interact with complex enterprise data and permission systems. Provides operational perspective on real-world deployment of agentic AI systems in enterprise workflows.",
+        "category": "Enterprise & ERP"
+      },
+      {
+        "title": "When AI knows where you want to go before you do - why Uber CEO Dara Khosrowshahi is upping tech spend after 'seeing this movie before'",
+        "url": "https://diginomica.com/when-ai-knows-where-you-want-go-you-do-why-uber-ceo-dara-khosrowshahi-upping-tech-spend-after",
+        "source": "Diginomica",
+        "score": 8,
+        "summary": "Uber CEO Dara Khosrowshahi discusses increasing technology spending to build agentic AI capabilities that can predict user intent and destination preferences. The article explores how Uber is positioning itself for an AI-driven future while ensuring foundational systems are solid first.",
+        "category": "Enterprise & ERP"
+      },
+      {
+        "title": "Less whipped cream, more cake - what CFOs need to see from agentic AI to close the trust gap",
+        "url": "https://diginomica.com/less-whip-cream-more-cake-what-cfos-need-see-agentic-ai-close-trust-gap",
+        "source": "Diginomica",
+        "score": 8,
+        "summary": "Article addresses the critical trust gap CFOs have with agentic AI systems in enterprise finance operations. Focuses on practical deployment challenges and requirements for AI agents in core financial processes like AP, AR, and FP&A.",
+        "category": "Enterprise & ERP"
+      },
+      {
+        "title": "From the gilded age to the silicon age - how industrial AI redefines competitive advantage",
+        "url": "https://diginomica.com/gilded-age-silicon-age-industrial-ai-competitive-advantage",
+        "source": "Diginomica",
+        "score": 8,
+        "summary": "IFS executive discusses how industrial AI embedded in enterprise systems is creating new competitive advantages, focusing on practical AI deployment in business operations. The piece connects AI implementation to fundamental shifts in how companies compete and operate.",
+        "category": "Enterprise & ERP"
+      },
+      {
+        "title": "Is the AI infrastructure layer now more valuable than software? Boomi CEO Steve Lucas raises the stakes with Boomi World on deck",
+        "url": "https://diginomica.com/ai-infrastructure-layer-now-more-valuable-software-boomi-ceo-steve-lucas-raises-stakes-boomi-world",
+        "source": "Diginomica",
+        "score": 8,
+        "summary": "Boomi CEO Steve Lucas discusses the strategic debate between AI infrastructure and software value, focusing on how AI agents can access real-time organizational data. The conversation addresses the critical context layer problem for enterprise AI deployment.",
+        "category": "Enterprise & ERP"
+      },
+      {
+        "title": "ServiceNow Knowledge 2026 - CEO Bill McDermott was playing chess last year. Now he says ServiceNow manages everyone else's board",
+        "url": "https://diginomica.com/knowledge-2026-ceo-bill-mcdermott-was-playing-chess-last-year-now-he-says-servicenow-manages",
+        "source": "Diginomica",
+        "score": 8,
+        "summary": "ServiceNow CEO Bill McDermott positions the company as uniquely equipped to solve enterprise AI governance challenges through recent acquisitions and platform capabilities. The focus on governance as the key barrier to enterprise AI adoption reflects a strategic shift toward deterministic AI systems that enterprises can trust.",
+        "category": "Enterprise & ERP"
+      },
+      {
+        "title": "Stable Agentic Control: Tool-Mediated LLM Architecture for Autonomous Cyber Defense",
+        "url": "https://arxiv.org/abs/2605.03034",
+        "source": "arXiv - AI",
+        "score": 9,
+        "summary": "Research presents a formal architecture for AI agent systems in high-stakes cybersecurity operations, using deterministic tools and finite action catalogs to provide guarantees for autonomous cyber defense. The work addresses critical enterprise needs for reliable AI agents in security operations centers under adversarial conditions.",
+        "category": "AI & Research"
+      },
+      {
+        "title": "Atlassian Team '26 - selling a nervous system, not a clean slate",
+        "url": "https://diginomica.com/atlassian-team-26-selling-nervous-system-not-clean-slate",
+        "source": "Diginomica",
+        "score": 7,
+        "summary": "Atlassian is positioning their Teamwork Graph as an organizational 'nervous system' that reveals how companies actually operate, rather than just providing clean-slate productivity tools. The challenge lies in whether enterprise buyers are willing to confront the operational realities this visibility will expose.",
+        "category": "Enterprise & ERP"
+      },
+      {
+        "title": "Making the Invisible Visible: Understanding the Mismatch Between Organizational Goals and Worker Experiences in AI Adoption",
+        "url": "https://arxiv.org/abs/2605.03078",
+        "source": "arXiv - AI",
+        "score": 8,
+        "summary": "Research examining the gap between organizational AI adoption goals and worker experiences across healthcare, finance, and management sectors. Identifies key disconnect between executive expectations and frontline worker realities in enterprise AI implementations.",
+        "category": "AI & Research"
+      },
+      {
+        "title": "The Demand Externality of Automation",
+        "url": "https://arxiv.org/abs/2605.05127",
+        "source": "arXiv - Economics & Tech Policy",
+        "score": 8,
+        "summary": "Academic paper examining the economic tradeoffs of automation, including how it affects productivity, labor markets, and wealth distribution through market mechanisms. Uses formal economic modeling to analyze the broader equilibrium effects of automation on different skill and wealth groups.",
+        "category": "AI & Research"
+      },
+      {
+        "title": "\u2018HELLO BOSS\u2019: Inside the Chinese Realtime Deepfake Software Powering Scams Around the World",
+        "url": "https://www.404media.co/hello-boss-inside-the-chinese-realtime-deepfake-software-powering-scams-around-the-world/",
+        "source": "404 Media",
+        "score": 8,
+        "summary": "404 Media obtained 'Haotian AI', Chinese realtime deepfake software specifically marketed to scammers that can replace faces on video calls in WhatsApp, Zoom, and Teams. This represents a significant escalation in AI-powered fraud capabilities that directly threatens enterprise security and trust in video communications.",
+        "category": "Tech Strategy & Analysis"
+      },
+      {
+        "title": "CreativityBench: Evaluating Agent Creative Reasoning via Affordance-Based Tool Repurposing",
+        "url": "https://arxiv.org/abs/2605.02910",
+        "source": "arXiv - AI",
+        "score": 7,
+        "summary": "Academic research introduces CreativityBench, a new benchmark for evaluating creative problem-solving abilities in large language models through tool repurposing and affordance reasoning. This represents progress in understanding and measuring higher-order cognitive capabilities in AI agents beyond standard reasoning tasks.",
+        "category": "AI & Research"
+      },
+      {
+        "title": "Endogenous Regime Switching Driven by Scalar-Irreducible Learning Dynamics",
+        "url": "https://arxiv.org/abs/2605.04054",
+        "source": "arXiv - Machine Learning",
+        "score": 7,
+        "summary": "This paper introduces a theoretical framework distinguishing between scalar-reducible dynamics (traditional ML optimization) and scalar-irreducible dynamics that could enable autonomous regime switching in AI systems. The research addresses a fundamental challenge in developing truly autonomous intelligence that can adapt without external intervention.",
+        "category": "AI & Research"
+      },
+      {
+        "title": "Chrome removes claim of On-device Al not sending data to Google Servers",
+        "url": "https://old.reddit.com/r/chrome/comments/1t5qayz/chrome_removes_claim_of_ondevice_al_not_sending/",
+        "source": "Hacker News",
+        "score": 7,
+        "summary": "Chrome quietly removed language claiming its on-device AI features don't send data to Google servers, raising questions about privacy practices and data handling in browser-based AI. This reflects broader concerns about how tech giants handle AI-generated data and user privacy in AI-powered features.",
+        "category": "Community & Practitioner"
+      }
+    ]
   }
 ]
