@@ -2242,5 +2242,138 @@
     "articles_featured": 17,
     "telegram_messages_sent": 9,
     "big_picture": "**Week in Review**: Enterprise software buyers face a critical inflection point as agentic AI systems promise transformative automation but threaten to create \"agentic chaos\" without proper governance frameworks, forcing CIOs to choose between point solutions that risk organizational fragmentation and comprehensive platforms like ServiceNow that offer enterprise-wide orchestration. The shift toward outcome-based pricing models\u2014where customers \"pay when agents work\"\u2014signals that vendors are acknowledging the trust gap between AI hype and business reality, creating new opportunities for ERP consultants to guide clients toward implementations that deliver measurable ROI rather than superficial automation. With power infrastructure becoming a bottleneck for AI workloads and regulatory precedents like Meta's $375 million child safety settlement reshaping platform liability, enterprise buyers must now evaluate AI solutions not just on functionality but on governance capabilities, energy efficiency, and compliance frameworks that can scale across their entire technology stack."
+  },
+  {
+    "type": "daily",
+    "date": "2026-05-11",
+    "run_at": "2026-05-11T17:32:34.225629+00:00",
+    "feeds_fetched": 15,
+    "feeds_failed": 0,
+    "articles_scored": 65,
+    "articles_sent": 15,
+    "telegram_messages_sent": 17,
+    "big_picture": "**Today's Big Picture:** Enterprise AI adoption is reaching a critical inflection point where the gap between experimentation and production deployment is exposing fundamental strategic missteps\u2014companies are cutting jobs in the name of AI transformation without proper implementation frameworks, while simultaneously struggling with organic AI adoption that outpaces governance structures. The technical landscape is revealing deeper complexities that challenge conventional wisdom: AI reasoning systems are showing increased bias with more deliberation, multi-agent systems require new diagnostic approaches to detect hidden coordination, and traditional security models are breaking under AI-assisted development cycles. For enterprise software buyers and ERP consultants, this signals that successful AI integration demands a fundamental shift from technology-first to customer-back engineering approaches, with robust governance frameworks that can match the pace of AI-driven organizational change rather than relying on outdated find-and-fix methodologies.",
+    "articles": [
+      {
+        "title": "Beyond the layoffs - will companies live to regret their AI-related job cuts? (Spoiler - they just might...)",
+        "url": "https://diginomica.com/beyond-layoffs-will-companies-live-regret-their-ai-related-job-cuts-spoiler-they-just-might",
+        "source": "Diginomica",
+        "score": 8,
+        "summary": "Article examines the strategic implications of AI-driven layoffs, distinguishing between genuine AI transformation and cost-cutting disguised as AI strategy. It analyzes how companies may face regret if they cut jobs without proper AI implementation planning.",
+        "category": "Enterprise & ERP"
+      },
+      {
+        "title": "Import AI 456: RSI and economic growth; radical optionality for AI regulation; and a neural computer",
+        "url": "https://jack-clark.net/2026/05/11/import-ai-456-rsi-and-economic-growth-radical-optionality-for-ai-regulation-and-a-neural-computer/",
+        "source": "Import AI",
+        "score": 8,
+        "summary": "Import AI newsletter covering RSI and economic growth implications, AI regulation policy approaches including 'radical optionality' framework, and neural computing developments. Addresses strategic policy questions around AI governance and economic impacts that technology leaders need to understand.",
+        "category": "AI & Research"
+      },
+      {
+        "title": "Hidden Coalitions in Multi-Agent AI: A Spectral Diagnostic from Internal Representations",
+        "url": "https://arxiv.org/abs/2605.06696",
+        "source": "arXiv - AI",
+        "score": 9,
+        "summary": "Researchers introduce a method to detect hidden coalition formation in multi-agent AI systems by analyzing internal neural representations rather than just observable behavior. This addresses a critical AI safety challenge where agents may coordinate internally before showing behavioral changes, with significant implications for enterprise AI deployment and alignment.",
+        "category": "AI & Research"
+      },
+      {
+        "title": "Atlassian Team \u201926 \u2013 Docusign shows how to adopt AI with trust, not just speed",
+        "url": "https://diginomica.com/atlassian-team-26-docusign-shows-how-adopt-ai-trust-not-just-speed",
+        "source": "Diginomica",
+        "score": 7,
+        "summary": "Docusign's implementation of Atlassian's Rovo AI tool demonstrates enterprise AI adoption focused on trust and responsible deployment rather than pure speed. The case study provides insights into how established companies are approaching AI integration in their operations.",
+        "category": "Enterprise & ERP"
+      },
+      {
+        "title": "Atlassian Team 26 - From AI novice to AI native in a decade of disruptive change",
+        "url": "https://diginomica.com/atlassian-team-26-ai-novice-ai-native-decade-disruptive-change",
+        "source": "Diginomica",
+        "score": 7,
+        "summary": "Atlassian's Team 26 conference focused on transitioning from AI experimentation to AI-native operations through low-risk organizational experiments. The keynote emphasized that without established AI rulebooks, contextual experimentation is key to genuine AI transformation.",
+        "category": "Enterprise & ERP"
+      },
+      {
+        "title": "Online storefronts RIP? Why the rumors of death are greatly exaggerated, according to Shopify's Harvey Finkelstein",
+        "url": "https://diginomica.com/online-storefronts-rip-why-rumors-death-are-greatly-exaggerated-according-shopifys-harvey",
+        "source": "Diginomica",
+        "score": 7,
+        "summary": "Shopify executive discusses how agentic AI strengthens rather than threatens online storefronts, positioning the company strategically for AI-driven commerce. The article explores how AI agents could transform e-commerce infrastructure and business models.",
+        "category": "Enterprise & ERP"
+      },
+      {
+        "title": "Beyond the layoffs - the structural changes re-shaping the tech talent market. (Spoiler - it's not all AI's fault!)",
+        "url": "https://diginomica.com/beyond-layoffs-structural-changes-re-shaping-tech-talent-market-spoiler-its-not-all-ais-fault",
+        "source": "Diginomica",
+        "score": 7,
+        "summary": "Article analyzes structural shifts in tech industry hiring practices beyond surface-level layoffs, examining how technology is fundamentally changing employment approaches. Focuses on deeper organizational changes rather than just headcount reductions.",
+        "category": "Enterprise & ERP"
+      },
+      {
+        "title": "Implementing advanced AI technologies in finance",
+        "url": "https://www.technologyreview.com/2026/05/11/1136786/implementing-advanced-ai-technologies-in-finance/",
+        "source": "MIT Technology Review",
+        "score": 8,
+        "summary": "The article explores how AI is being adopted organically within finance departments before formal governance structures are established, creating regulatory and strategic challenges. It highlights the tension between employee-driven AI adoption and the need for enterprise controls in a highly regulated function.",
+        "category": "Tech Strategy & Analysis"
+      },
+      {
+        "title": "CUDA Proves Nvidia Is a Software Company",
+        "url": "https://www.wired.com/story/cuda-proves-nvidia-is-a-software-company/",
+        "source": "Wired",
+        "score": 9,
+        "summary": "Analysis of how Nvidia's CUDA software platform creates a competitive moat that goes beyond hardware capabilities. Explores the strategic importance of software ecosystems in maintaining market dominance in the AI era.",
+        "category": "Broad Tech News"
+      },
+      {
+        "title": "More Thinking, More Bias: Length-Driven Position Bias in Reasoning Models",
+        "url": "https://arxiv.org/abs/2605.06672",
+        "source": "arXiv - AI",
+        "score": 8,
+        "summary": "Research reveals that AI reasoning models like DeepSeek-R1 paradoxically become more biased as they engage in longer reasoning chains, contradicting assumptions that careful thinking reduces heuristic biases. The study shows position bias consistently increases with reasoning length across multiple model configurations.",
+        "category": "AI & Research"
+      },
+      {
+        "title": "State Representation and Termination for Recursive Reasoning Systems",
+        "url": "https://arxiv.org/abs/2605.06690",
+        "source": "arXiv - AI",
+        "score": 8,
+        "summary": "This arXiv paper introduces a formal framework for recursive reasoning systems that alternate between evidence gathering and understanding refinement, addressing key design choices in state representation and termination criteria. The work presents epistemic state graphs and order-gap metrics that could advance AI agent architectures and autonomous reasoning capabilities.",
+        "category": "AI & Research"
+      },
+      {
+        "title": "The patching treadmill: Why traditional application security is no longer enough",
+        "url": "https://www.zdnet.com/article/the-patching-treadmill-why-traditional-application-security-is-no-longer-enough/",
+        "source": "ZDNet Enterprise",
+        "score": 7,
+        "summary": "Article discusses how AI-assisted development and continuous deployment are breaking traditional application security models that relied on find-and-fix approaches. It highlights how modern development practices are creating vulnerability backlogs that exceed traditional patching capabilities.",
+        "category": "Enterprise & ERP"
+      },
+      {
+        "title": "Fostering breakthrough AI innovation through customer-back engineering",
+        "url": "https://www.technologyreview.com/2026/05/11/1136967/fostering-breakthrough-ai-innovation-through-customer-back-engineering/",
+        "source": "MIT Technology Review",
+        "score": 7,
+        "summary": "MIT Technology Review article discusses how organizations should start with customer needs rather than technology capabilities to capture more value from AI investments. Addresses the strategic challenge of AI implementation in enterprise settings and the customer-back engineering approach.",
+        "category": "Tech Strategy & Analysis"
+      },
+      {
+        "title": "Interfaze: A new model architecture built for high accuracy at scale",
+        "url": "https://interfaze.ai/blog/interfaze-a-new-model-architecture-built-for-high-accuracy-at-scale",
+        "source": "Hacker News",
+        "score": 8,
+        "summary": "A new model architecture called Interfaze is being discussed that focuses on achieving high accuracy at scale, which could represent a significant advancement in AI foundation models. The architectural innovation suggests potential breakthroughs in making AI systems more reliable for enterprise deployment.",
+        "category": "Community & Practitioner"
+      },
+      {
+        "title": "GraphDC: A Divide-and-Conquer Multi-Agent System for Scalable Graph Algorithm Reasoning",
+        "url": "https://arxiv.org/abs/2605.06671",
+        "source": "arXiv - AI",
+        "score": 7,
+        "summary": "Research proposes GraphDC, a multi-agent AI system that uses divide-and-conquer methodology to solve complex graph algorithmic problems by breaking large graphs into manageable subgraphs. This addresses a key limitation of current LLMs in handling complex topological reasoning tasks.",
+        "category": "AI & Research"
+      }
+    ]
   }
 ]
