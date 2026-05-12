@@ -2375,5 +2375,138 @@
         "category": "AI & Research"
       }
     ]
+  },
+  {
+    "type": "daily",
+    "date": "2026-05-12",
+    "run_at": "2026-05-12T17:31:11.976140+00:00",
+    "feeds_fetched": 15,
+    "feeds_failed": 0,
+    "articles_scored": 66,
+    "articles_sent": 15,
+    "telegram_messages_sent": 17,
+    "big_picture": "**Today's Big Picture:** Enterprise software platforms are racing to become the strategic \"middle layer\" that orchestrates AI agents rather than building their own, as seen with UiPath's integration strategy and Celonis positioning itself as enterprise AI's \"voice of reason.\" This reflects a fundamental shift where competitive advantage is moving from owning AI capabilities to providing the trusted integration fabric that manages multiple AI agents across complex enterprise workflows. For ERP solution consultants and enterprise buyers, this means evaluating vendors not just on their AI features, but on their ability to serve as reliable orchestration platforms that can integrate, govern, and make sense of an increasingly fragmented AI ecosystem.",
+    "articles": [
+      {
+        "title": "UiPath opens its platform to every coding agent - here's why Claude Code and Codex go first",
+        "url": "https://diginomica.com/uipath-opens-its-platform-every-coding-agent-heres-why-claude-code-and-codex-go-first",
+        "source": "Diginomica",
+        "score": 8,
+        "summary": "UiPath is opening its automation platform to integrate third-party coding agents like Claude Code and OpenAI Codex, rather than building its own. This strategic decision reflects deeper questions about which layer of the AI stack provides sustainable competitive advantage.",
+        "category": "Enterprise & ERP"
+      },
+      {
+        "title": "Celonis turns its platform on its head with Context Model and Ikigai Labs deal - pitching itself as enterprise AI's 'voice of reason'",
+        "url": "https://diginomica.com/celonis-turns-its-platform-its-head-context-model-and-ikigai-labs-deal-pitching-itself-enterprise",
+        "source": "Diginomica",
+        "score": 8,
+        "summary": "Celonis is repositioning itself as a trusted middle layer for enterprise AI with a new Context Model and acquisition of Ikigai Labs, representing a fundamental strategic shift. The company aims to be the 'voice of reason' in enterprise AI adoption amid an increasingly complex vendor landscape.",
+        "category": "Enterprise & ERP"
+      },
+      {
+        "title": "ServiceNow Knowledge 2026 - the whole darn thing",
+        "url": "https://diginomica.com/servicenow-knowledge-2026-whole-darn-thing",
+        "source": "Diginomica",
+        "score": 8,
+        "summary": "ServiceNow's Knowledge 2026 conference focused on 'control over chaos' with product announcements around agentic AI and enterprise automation across finance, procurement, and workflows. The event signals ServiceNow's strategic push into AI-driven enterprise process automation, competing directly with traditional ERP vendors.",
+        "category": "Enterprise & ERP"
+      },
+      {
+        "title": "Happy mondays - re-building at monday.com to define what an AI work platform means for business. Here's the pitch",
+        "url": "https://diginomica.com/happy-mondays-re-building-mondaycom-define-what-ai-work-platform-means-business-heres-pitch",
+        "source": "Diginomica",
+        "score": 7,
+        "summary": "monday.com's co-CEO discusses rebuilding their platform around AI for business, positioning it as an AI work platform. The piece explores how the company is defining what AI integration means for enterprise work management.",
+        "category": "Enterprise & ERP"
+      },
+      {
+        "title": "Fellow travelers - disruptors disrupted as Expedia, Tripadvisor, and Trivago book AI journeys",
+        "url": "https://diginomica.com/fellow-travellers-disruptors-disrupted-expedia-tripadvisor-and-trivago-book-ai",
+        "source": "Diginomica",
+        "score": 7,
+        "summary": "Analysis of how AI is disrupting traditional online travel platforms like Expedia and TripAdvisor, who previously disrupted travel agents themselves. The piece examines how AI agents and automation are creating new competitive dynamics in the travel booking industry.",
+        "category": "Enterprise & ERP"
+      },
+      {
+        "title": "New data from the diginomica network - Q1 2026 sees AI benefits despite a rough economy",
+        "url": "https://diginomica.com/new-data-diginomica-network-q1-2026-sees-ai-benefits-despite-rough-economy",
+        "source": "Diginomica",
+        "score": 7,
+        "summary": "Survey data from diginomica's CIO/CTO network shows AI investments delivering benefits in Q1 2026 despite economic headwinds. The research indicates continued strong AI investment even as digital career appointments have declined slightly.",
+        "category": "Enterprise & ERP"
+      },
+      {
+        "title": "Atlassian Team 26 \u2013 Service Collection doubles down on AI\u2011powered service, ops and asset management",
+        "url": "https://diginomica.com/atlassian-team-26-service-collection-doubles-down-ai-powered-service-ops-and-asset-management",
+        "source": "Diginomica",
+        "score": 7,
+        "summary": "Atlassian is enhancing its Service Collection with AI-powered ITSM, AI Ops, and asset management features, including a Solution Composer that reduces setup time from weeks to minutes. This represents enterprise software evolution toward AI-driven operational efficiency in service management.",
+        "category": "Enterprise & ERP"
+      },
+      {
+        "title": "Enterprise hits and misses - AI results are elusive, but why? Tokenmaxxing is here, and AI (in)security is looming",
+        "url": "https://diginomica.com/enterprise-hits-and-misses-ai-results-are-elusive-why-tokenmaxxing-here-and-ai-insecurity-looming",
+        "source": "Diginomica",
+        "score": 7,
+        "summary": "The article analyzes enterprise AI implementation challenges and covers ServiceNow developments, addressing why AI results remain elusive in business settings. It examines AI security issues affecting production deployments and broader enterprise software trends.",
+        "category": "Enterprise & ERP"
+      },
+      {
+        "title": "Your Android phone is getting agentic powers with Gemini Intelligence - here's how and when",
+        "url": "https://www.zdnet.com/article/how-gemini-intelligence-makes-android-agentic/",
+        "source": "ZDNet Enterprise",
+        "score": 8,
+        "summary": "Google's Gemini AI is gaining agentic capabilities on Android, enabling multi-step task automation across applications. This represents a significant advancement in mobile AI agents that could reshape how users interact with enterprise and personal workflows.",
+        "category": "Enterprise & ERP"
+      },
+      {
+        "title": "World Models: 10 Things That Matter in AI Right Now",
+        "url": "https://www.technologyreview.com/2026/05/12/1137134/world-models-10-things-that-matter-in-ai-right-now/",
+        "source": "MIT Technology Review",
+        "score": 8,
+        "summary": "MIT Technology Review identifies world models as a key emerging area in AI, with world models representing AI systems that can understand and predict how environments work. This technology could be foundational for developing more capable AI agents that can reason about and interact with the world more effectively.",
+        "category": "Tech Strategy & Analysis"
+      },
+      {
+        "title": "Three things in AI to watch, according to a Nobel-winning economist",
+        "url": "https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/",
+        "source": "MIT Technology Review",
+        "score": 8,
+        "summary": "Nobel Prize-winning economist Daron Acemoglu shares his perspective on key AI developments to monitor, likely offering contrarian views that challenge Silicon Valley's conventional wisdom. His economic expertise provides valuable strategic insight into AI's broader implications for business and markets.",
+        "category": "Tech Strategy & Analysis"
+      },
+      {
+        "title": "Where Reliability Lives in Vision-Language Models: A Mechanistic Study of Attention, Hidden States, and Causal Circuits",
+        "url": "https://arxiv.org/abs/2605.08200",
+        "source": "arXiv - AI",
+        "score": 8,
+        "summary": "This mechanistic study investigates reliability patterns in vision-language models by examining attention mechanisms and hidden states across major open-weight VLM families. The research provides technical insights into when VLMs can be trusted, which is crucial for enterprise deployment of multimodal AI systems.",
+        "category": "AI & Research"
+      },
+      {
+        "title": "On Distinguishing Capability Elicitation from Capability Creation in Post-Training: A Free-Energy Perspective",
+        "url": "https://arxiv.org/abs/2605.08368",
+        "source": "arXiv - AI",
+        "score": 8,
+        "summary": "This arXiv paper introduces a theoretical framework distinguishing between 'capability elicitation' (surfacing existing model abilities) and 'capability creation' (developing new abilities) in LLM post-training. The research provides a free-energy perspective to operationalize this distinction, which could significantly impact how AI systems are developed and deployed.",
+        "category": "AI & Research"
+      },
+      {
+        "title": "The Download: a Nobel winner on AI, and the case for fixing everything",
+        "url": "https://www.technologyreview.com/2026/05/12/1137103/the-download-nobel-winner-ai-maintenance-of-everything/",
+        "source": "MIT Technology Review",
+        "score": 7,
+        "summary": "MIT Technology Review newsletter featuring Nobel economist Daron Acemoglu's perspective on AI trends to watch. The article appears to focus on economic and strategic implications of AI development from an authoritative academic source.",
+        "category": "Tech Strategy & Analysis"
+      },
+      {
+        "title": "Spatial Priming Outperforms Semantic Prompting: A Grid-Based Approach to Improving LLM Accuracy on Chart Data Extraction",
+        "url": "https://arxiv.org/abs/2605.08220",
+        "source": "arXiv - AI",
+        "score": 7,
+        "summary": "Research paper compares spatial vs semantic prompting methods for improving LLM accuracy in extracting data from scientific charts. The work addresses a practical challenge in automated document processing and multimodal AI applications.",
+        "category": "AI & Research"
+      }
+    ]
   }
 ]
