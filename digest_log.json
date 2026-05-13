@@ -2508,5 +2508,74 @@
         "category": "AI & Research"
       }
     ]
+  },
+  {
+    "type": "daily",
+    "date": "2026-05-13",
+    "run_at": "2026-05-13T17:32:19.159875+00:00",
+    "feeds_fetched": 15,
+    "feeds_failed": 0,
+    "articles_scored": 61,
+    "articles_sent": 7,
+    "telegram_messages_sent": 9,
+    "big_picture": "**Today's Big Picture:** Enterprise AI is hitting a critical inflection point where the focus shifts from pilot programs to production-scale orchestration and economic viability, with companies like UiPath emphasizing governance layers while Pinterest abandons third-party LLMs for proprietary models to control costs. The underlying tension is becoming clear\u2014while the US leads in AI commercialization and transformation rhetoric dominates, practical concerns about skill degradation and unit economics are forcing enterprises to make strategic choices about build-versus-buy AI capabilities. For ERP solution consultants and enterprise software buyers, this signals a need to prioritize vendors with proven orchestration frameworks and sustainable economic models over flashy AI features, as the market separates genuine enterprise-ready solutions from expensive pilot projects.",
+    "articles": [
+      {
+        "title": "Break the pilot cycle - orchestration as the building block of the modern agentic enterprise",
+        "url": "https://diginomica.com/break-pilot-cycle-orchestration-building-block-modern-agentic-enterprise",
+        "source": "Diginomica",
+        "score": 9,
+        "summary": "UiPath executive argues that AI agents require orchestration layers to deliver real enterprise value, coordinating agents with automation and human oversight under unified governance. This addresses a critical challenge in moving AI agents from pilots to production-scale enterprise deployment.",
+        "category": "Enterprise & ERP"
+      },
+      {
+        "title": "\"The unit economics of relying on large proprietary third-party LLMs does not make sense\" - Pinterest's agentic commerce battle cry to advertisers",
+        "url": "https://diginomica.com/unit-economics-relying-large-proprietary-third-party-llms-does-not-make-sense-pinterests-agentic",
+        "source": "Diginomica",
+        "score": 8,
+        "summary": "Pinterest's CEO argues that relying on third-party LLMs doesn't make economic sense, positioning the company to compete with OpenAI in agentic commerce applications. This represents a significant strategic shift from a social platform to an AI-powered commerce engine with proprietary models.",
+        "category": "Enterprise & ERP"
+      },
+      {
+        "title": "The best argument I\u2019ve heard for why AI won't take your job",
+        "url": "https://www.platformer.news/ai-job-loss-box-ceo-aaron-levie/",
+        "source": "Platformer",
+        "score": 7,
+        "summary": "Box CEO Aaron Levie discusses how AI will transform jobs rather than eliminate them, offering a strategic perspective on workplace evolution. The argument focuses on job transformation rather than replacement, which is relevant to understanding how AI adoption will reshape organizational structures.",
+        "category": "Tech Strategy & Analysis"
+      },
+      {
+        "title": "The US is winning the AI race where it matters most: commercialization",
+        "url": "https://avkcode.github.io/blog/us-winning-ai-race.html",
+        "source": "Hacker News",
+        "score": 8,
+        "summary": "Article discusses US dominance in AI commercialization, which is strategically important for understanding competitive dynamics between nations and companies in the AI race. This touches on how AI advances are being translated into real business value and market positioning.",
+        "category": "Community & Practitioner"
+      },
+      {
+        "title": "Software Developers Say AI Is Rotting Their Brains",
+        "url": "https://www.404media.co/software-developers-say-ai-is-rotting-their-brains/",
+        "source": "404 Media",
+        "score": 7,
+        "summary": "Software developers report that AI coding tools are making them less capable at fundamental programming tasks, raising concerns about skill atrophy in the workforce. This highlights a critical organizational challenge as companies increasingly adopt AI development tools.",
+        "category": "Tech Strategy & Analysis"
+      },
+      {
+        "title": "Steering Without Breaking: Mechanistically Informed Interventions for Discrete Diffusion Language Models",
+        "url": "https://arxiv.org/abs/2605.10971",
+        "source": "arXiv - Machine Learning",
+        "score": 7,
+        "summary": "Research paper on discrete diffusion language models proposes mechanistically-informed interventions to improve controlled text generation quality. The work addresses technical limitations in steering multiple attributes simultaneously in an alternative to autoregressive models.",
+        "category": "AI & Research"
+      },
+      {
+        "title": "Microsoft doesn\u2019t want any of this",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/929692/microsoft-musk-altman-openai-trial",
+        "source": "The Verge",
+        "score": 7,
+        "summary": "Article covers Microsoft's involvement in the high-profile Musk vs. Altman legal proceedings, which involves key AI industry dynamics and corporate strategy. The legal battle has significant implications for AI governance and the competitive landscape between major tech players.",
+        "category": "Broad Tech News"
+      }
+    ]
   }
 ]
