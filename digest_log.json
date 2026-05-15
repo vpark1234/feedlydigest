@@ -2710,5 +2710,138 @@
         "category": "Broad Tech News"
       }
     ]
+  },
+  {
+    "type": "daily",
+    "date": "2026-05-15",
+    "run_at": "2026-05-15T17:07:20.598212+00:00",
+    "feeds_fetched": 15,
+    "feeds_failed": 0,
+    "articles_scored": 69,
+    "articles_sent": 15,
+    "telegram_messages_sent": 17,
+    "big_picture": "**Today's Big Picture:** Enterprise AI is rapidly moving from experimental chat interfaces to production-grade agentic systems that directly integrate with core business functions like accounting, support, and even financial transactions, as evidenced by Atlassian's Rovo deployments, Xero's agentic accounting strategy, and OpenAI's banking integrations through Plaid. However, this acceleration is exposing critical gaps in orchestration, safety, and governance\u2014research reveals that multi-agent systems can suppress protective behaviors while introducing systematic biases in hiring and other automated decisions, forcing vendors like Boomi to address what they bluntly call the enterprise AI \"shit show.\" For enterprise software buyers and ERP consultants, this means the window is closing on treating AI as a nice-to-have feature\u2014it's becoming the fundamental architecture that determines competitive advantage, but only for organizations that can navigate the complex orchestration and governance challenges that come with truly autonomous business processes.",
+    "articles": [
+      {
+        "title": "Atlassian Team '26 \u2013 what Rovo actually does now, and where it goes next",
+        "url": "https://diginomica.com/atlassian-team-26-what-rovo-actually-does-now-and-where-it-goes-next",
+        "source": "Diginomica",
+        "score": 8,
+        "summary": "Atlassian's Head of Product for AI discusses the evolution of Rovo, their enterprise AI platform, including real-world deployment examples and strategic direction. This covers how a major enterprise software company is implementing AI agents and workflows in business contexts.",
+        "category": "Enterprise & ERP"
+      },
+      {
+        "title": "Accounting for an agentic future at Xero - a progress report by CEO Sukhinder Cassidy",
+        "url": "https://diginomica.com/accounting-agentic-future-xero-progress-report-ceo-sukhinder-cassidy",
+        "source": "Diginomica",
+        "score": 8,
+        "summary": "Xero's CEO discusses the company's strategic approach to building agentic AI capabilities in accounting and finance automation. The piece covers enterprise AI deployment strategy and partnerships with LLM providers in the financial software space.",
+        "category": "Enterprise & ERP"
+      },
+      {
+        "title": "Boomi World '26 - Boomi rolls out a host of product announcements to tackle the enterprise AI \"sh*t show\"",
+        "url": "https://diginomica.com/boomi-world-26-boomi-rolls-out-host-product-announcements-tackle-enterprise-sht-show",
+        "source": "Diginomica",
+        "score": 8,
+        "summary": "Boomi announces new enterprise AI and automation products to address integration challenges in enterprise AI deployments. The focus on tackling the enterprise AI 'mess' suggests substantive product developments for business process automation and workflow integration.",
+        "category": "Enterprise & ERP"
+      },
+      {
+        "title": "Invisible Orchestrators Suppress Protective Behavior and Dissociate Power-Holders: Safety Risks in Multi-Agent LLM Systems",
+        "url": "https://arxiv.org/abs/2605.13851",
+        "source": "arXiv - AI",
+        "score": 9,
+        "summary": "Research reveals safety risks in multi-agent LLM systems where invisible orchestrators managing worker agents can suppress protective behaviors and dissociate power-holders from responsibility. This directly addresses a critical gap in understanding enterprise AI deployment architectures that are becoming the default standard.",
+        "category": "AI & Research"
+      },
+      {
+        "title": "PREPING: Building Agent Memory without Tasks",
+        "url": "https://arxiv.org/abs/2605.13880",
+        "source": "arXiv - AI",
+        "score": 9,
+        "summary": "This research addresses a fundamental challenge in AI agent deployment - the cold-start problem where agents lack task-specific experience in new environments. The paper explores pre-task memory construction using synthetic practice, which could significantly impact how enterprise AI agents are deployed and onboarded.",
+        "category": "AI & Research"
+      },
+      {
+        "title": "Atlassian Team '26 \u2013 why Reddit founder Alexis Ohanian thinks the more AI advances, the more human imperfection matters",
+        "url": "https://diginomica.com/atlassian-team-26-why-reddit-founder-alexis-ohanian-thinks-more-ai-advances-more-human-imperfection",
+        "source": "Diginomica",
+        "score": 7,
+        "summary": "Reddit co-founder Alexis Ohanian argues that as AI-generated content floods platforms, authentically human networks and content will become increasingly scarce and valuable. This perspective offers strategic insight into how AI advancement may paradoxically increase demand for verified human interaction and content.",
+        "category": "Enterprise & ERP"
+      },
+      {
+        "title": "From telco to 'techco' - how Orange is using open source to re-invent its network",
+        "url": "https://diginomica.com/telco-techco-how-orange-using-open-source-reinvent-its-network",
+        "source": "Diginomica",
+        "score": 7,
+        "summary": "Orange is transforming from a traditional telecom to a technology company through open source infrastructure, Kubernetes clusters, and cloud-native architecture via the European Sylva project. This represents a significant strategic shift in how major telcos are repositioning themselves in the digital economy.",
+        "category": "Enterprise & ERP"
+      },
+      {
+        "title": "Not just a bean counter anymore -  how AI and digital transformation are the new kingmakers for CFO career ambitions",
+        "url": "https://diginomica.com/not-just-bean-counter-anymore-how-ai-and-digital-transformation-are-new-kingmakers-cfo-career",
+        "source": "Diginomica",
+        "score": 7,
+        "summary": "Article explores how AI and digital transformation are reshaping CFO career trajectories, with technology skills becoming essential for financial leaders aspiring to CEO roles. Discusses the strategic importance of finance automation and enterprise AI adoption in elevating CFOs beyond traditional accounting functions.",
+        "category": "Enterprise & ERP"
+      },
+      {
+        "title": "Why Cisco is staking the future of support on AI-native services on Cisco IQ",
+        "url": "https://diginomica.com/why-cisco-staking-future-support-ai-native-services-cisco-iq",
+        "source": "Diginomica",
+        "score": 7,
+        "summary": "Cisco is building AI-native support services through Cisco IQ, representing a strategic shift toward AI-powered enterprise operations. This shows how major enterprise vendors are integrating AI agents into their core service delivery models.",
+        "category": "Enterprise & ERP"
+      },
+      {
+        "title": "OpenAI is connecting ChatGPT to bank accounts via Plaid",
+        "url": "https://firethering.com/chatgpt-bank-account-plaid-openai/",
+        "source": "Hacker News",
+        "score": 9,
+        "summary": "OpenAI is integrating ChatGPT with banking systems through Plaid, enabling AI agents to access financial accounts and potentially automate financial workflows. This represents a significant step toward agentic AI in finance automation and enterprise operations.",
+        "category": "Community & Practitioner"
+      },
+      {
+        "title": "GraphBit: A Graph-based Agentic Framework for Non-Linear Agent Orchestration",
+        "url": "https://arxiv.org/abs/2605.13848",
+        "source": "arXiv - AI",
+        "score": 8,
+        "summary": "GraphBit introduces a deterministic graph-based framework for AI agent orchestration that addresses key reliability issues like hallucinated routing and infinite loops in current LLM agent systems. The engine-orchestrated approach using directed acyclic graphs promises more reproducible and auditable autonomous workflows.",
+        "category": "AI & Research"
+      },
+      {
+        "title": "A Two-Dimensional Framework for AI Agent Design Patterns: Cognitive Function and Execution Topology",
+        "url": "https://arxiv.org/abs/2605.13850",
+        "source": "arXiv - AI",
+        "score": 8,
+        "summary": "Academic paper proposes a two-dimensional framework for categorizing AI agent architectures, distinguishing between cognitive function (what agents do) and execution topology (how they're structured). This addresses a real gap where the same architectural patterns can implement fundamentally different agent behaviors with different failure modes.",
+        "category": "AI & Research"
+      },
+      {
+        "title": "AI Alignment Amplifies the Role of Race, Gender, and Disability in Hiring Decisions",
+        "url": "https://arxiv.org/abs/2605.13866",
+        "source": "arXiv - Economics & Tech Policy",
+        "score": 8,
+        "summary": "Research analyzing 27 language models across 177 occupations finds systematic demographic biases in AI hiring decisions, with models favoring female and Black candidates while disadvantaging disabled candidates. This highlights critical AI alignment issues as businesses increasingly delegate hiring decisions to AI systems.",
+        "category": "AI & Research"
+      },
+      {
+        "title": "This new Claude skill saves you from bad contracts - and costs less than a lawyer",
+        "url": "https://www.zdnet.com/article/claude-small-business-contract-review-ai-no-lawyer/",
+        "source": "ZDNet Enterprise",
+        "score": 7,
+        "summary": "ZDNet tests Claude's new business skills package, particularly highlighting a contract review tool that could replace legal services for small businesses. The article demonstrates practical AI deployment in professional services with clear cost-benefit analysis.",
+        "category": "Enterprise & ERP"
+      },
+      {
+        "title": "How Chinese short dramas became AI content machines",
+        "url": "https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/",
+        "source": "MIT Technology Review",
+        "score": 7,
+        "summary": "Chinese short drama platforms are using AI to mass-produce content at unprecedented scale, representing a significant shift in media production and content creation economics. This demonstrates how AI is reshaping entire creative industries and business models around automated content generation.",
+        "category": "Tech Strategy & Analysis"
+      }
+    ]
   }
 ]
