@@ -2843,5 +2843,58 @@
         "category": "Tech Strategy & Analysis"
       }
     ]
+  },
+  {
+    "type": "daily",
+    "date": "2026-05-16",
+    "run_at": "2026-05-16T16:27:51.824176+00:00",
+    "feeds_fetched": 15,
+    "feeds_failed": 0,
+    "articles_scored": 40,
+    "articles_sent": 5,
+    "telegram_messages_sent": 7,
+    "big_picture": "**Today's Big Picture:** The enterprise AI landscape is rapidly maturing with breakthrough technical advances in video generation, LLM steering, and memory efficiency creating new possibilities for business automation, while the high-stakes Musk v. Altman legal battle will likely establish critical precedents for AI governance and competitive practices that could reshape vendor relationships. Meanwhile, traditional industries like automotive are demonstrating how AI-driven insights can guide fundamental business model pivots, suggesting that enterprise software buyers should prepare for more radical strategic shifts rather than incremental improvements. For ERP consultants and enterprise buyers, this signals an inflection point where AI capabilities are moving from experimental to production-ready, demanding immediate evaluation of how these advances can transform core business processes and competitive positioning.",
+    "articles": [
+      {
+        "title": "Musk v. Altman week 3: Elon Musk and Sam Altman traded blows over each other\u2019s credibility. Now the jury will pick a side.",
+        "url": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
+        "source": "MIT Technology Review",
+        "score": 8,
+        "summary": "The Musk v. Altman trial concludes with credibility attacks from both sides, as lawyers question Altman's alleged self-dealing and Musk's power motivations. This legal battle could reshape AI governance and competitive dynamics in the industry.",
+        "category": "Tech Strategy & Analysis"
+      },
+      {
+        "title": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
+        "url": "https://nvlabs.github.io/Sana/WM/",
+        "source": "Hacker News",
+        "score": 8,
+        "summary": "SANA-WM is a 2.6B parameter open-source world model capable of generating 1-minute 720p video content. This represents a significant breakthrough in AI video generation capabilities at a relatively small model size.",
+        "category": "Community & Practitioner"
+      },
+      {
+        "title": "DeepSeek-V4-Flash means LLM steering is interesting again",
+        "url": "https://www.seangoedecke.com/steering-vectors/",
+        "source": "Hacker News",
+        "score": 8,
+        "summary": "DeepSeek-V4-Flash represents a significant advancement in LLM steering capabilities, which has direct implications for enterprise AI deployment and agentic systems. This development could reshape how businesses implement AI agents and autonomous workflows across various enterprise functions.",
+        "category": "Community & Practitioner"
+      },
+      {
+        "title": "After Struggling With EVs, US Automakers Pivot to Energy",
+        "url": "https://www.wired.com/story/after-struggling-with-evs-us-automakers-pivot-to-energy/",
+        "source": "Wired",
+        "score": 7,
+        "summary": "Major US automakers Ford and GM are pivoting from struggling EV businesses into battery storage markets, with AI driving this strategic shift. This represents a significant business model transformation in response to market realities and technology trends.",
+        "category": "Broad Tech News"
+      },
+      {
+        "title": "\u0394-Mem: Efficient Online Memory for Large Language Models",
+        "url": "https://arxiv.org/abs/2605.12357",
+        "source": "Hacker News",
+        "score": 7,
+        "summary": "\u0394-Mem appears to be a technical advancement in memory management for large language models, potentially improving efficiency for AI systems. Without access to the full content, this represents incremental technical progress in LLM infrastructure that could impact enterprise AI deployment costs and performance.",
+        "category": "Community & Practitioner"
+      }
+    ]
   }
 ]
