@@ -3304,5 +3304,138 @@
         "category": "Enterprise & ERP"
       }
     ]
+  },
+  {
+    "type": "daily",
+    "date": "2026-05-21",
+    "run_at": "2026-05-21T17:36:14.668380+00:00",
+    "feeds_fetched": 15,
+    "feeds_failed": 0,
+    "articles_scored": 58,
+    "articles_sent": 15,
+    "telegram_messages_sent": 17,
+    "big_picture": "**Today's Big Picture**\n\nEnterprise AI is rapidly evolving beyond simple LLM deployments toward sophisticated orchestrated agent systems that require careful governance and integration strategy, as evidenced by Camunda's focus on preventing \"AI chaos\" and real-world successes like Conagra's 95% automated production planning. The infrastructure investments driving NVIDIA's 92% data center revenue growth are enabling this transformation, but enterprises must navigate critical decisions about AI governance structure\u2014whether to empower business analysts, IT departments, or maintain vendor control\u2014while managing emerging risks around data privacy, model collapse, and regulatory compliance. For ERP consultants and enterprise software buyers, the window is closing on treating AI as a peripheral capability; it's becoming core infrastructure that demands strategic orchestration, proper sandboxing, and clear governance frameworks to capture value beyond mere cost reduction.",
+    "articles": [
+      {
+        "title": "CamundaCon26 - CEO and CTO explain the critical need to orchestrate agentic AI to prevent chaos",
+        "url": "https://diginomica.com/camundacon26-ceo-and-cto-explain-critical-need-orchestrate-agentic-ai-prevent-chaos",
+        "source": "Diginomica",
+        "score": 8,
+        "summary": "Camunda's leadership discusses orchestrating agentic AI systems to prevent operational chaos, highlighting a critical enterprise challenge as AI agents proliferate. The focus on enterprise orchestration for autonomous workflows addresses a key strategic need for businesses deploying AI at scale.",
+        "category": "Enterprise & ERP"
+      },
+      {
+        "title": "AI and the new value equation - from cost reduction to value reclamation",
+        "url": "https://diginomica.com/ai-and-new-value-equation-cost-reduction-value-reclamation",
+        "source": "Diginomica",
+        "score": 8,
+        "summary": "Salesforce executives argue that AI's strategic value extends beyond cost reduction to value reclamation, suggesting a shift in how enterprises should approach AI strategy and ROI measurement. This represents a strategic perspective on AI deployment that could influence how businesses justify and implement AI initiatives.",
+        "category": "Enterprise & ERP"
+      },
+      {
+        "title": "\"You can't run your business with an LLM\" - Intuit axes 17% of its workforce, but don't blame AI, insists CEO Sasan Goodarzi",
+        "url": "https://diginomica.com/you-cant-run-your-business-llm-intuit-axes-17-its-workforce-dont-blame-ai-insists-ceo-sasan",
+        "source": "Diginomica",
+        "score": 8,
+        "summary": "Intuit CEO explains major workforce reduction while emphasizing their strategic approach to AI that combines LLMs with human intelligence, providing insight into how enterprise software companies are navigating AI transformation. The article offers executive perspective on AI implementation strategy beyond simple LLM deployment.",
+        "category": "Enterprise & ERP"
+      },
+      {
+        "title": "Data center revenue soars 92% as NVIDIA turns in another record-breaking quarter...and the share price falls",
+        "url": "https://diginomica.com/data-center-revenue-soars-92-nvidia-turns-another-record-breaking-quarterand-share-price-falls",
+        "source": "Diginomica",
+        "score": 8,
+        "summary": "NVIDIA's data center revenue surge of 92% reflects the massive enterprise investment in AI infrastructure, directly impacting how companies build and deploy AI capabilities. The stock price decline despite record earnings suggests market concerns about sustainability of this AI infrastructure boom.",
+        "category": "Enterprise & ERP"
+      },
+      {
+        "title": "ICON 2026 - Conagra's Blue Yonder transformation delivers 'near-dark-room' production planning. And agents are next.",
+        "url": "https://diginomica.com/icon-2026-conagras-blue-yonder-transformation-delivers-near-dark-room-production-planning-and",
+        "source": "Diginomica",
+        "score": 8,
+        "summary": "Conagra achieved dramatic supply chain transformation with Blue Yonder, moving from 50-60% manual overrides to 95% automated production planning with significant operational improvements. The company is now planning to implement micro-agents, representing a clear evolution toward agentic AI in enterprise operations.",
+        "category": "Enterprise & ERP"
+      },
+      {
+        "title": "The Economics of Model Collapse: Equilibrium, Welfare, and Optimal Provenance Subsidies in Synthetic Data Markets",
+        "url": "https://arxiv.org/abs/2605.20279",
+        "source": "arXiv - Economics & Tech Policy",
+        "score": 9,
+        "summary": "This research develops the first microeconomic theory of synthetic data markets, addressing the critical issue of model collapse when AI systems are trained on AI-generated content. The work provides theoretical frameworks for understanding how recursive training degrades model quality and proposes economic mechanisms like provenance subsidies to maintain data quality.",
+        "category": "AI & Research"
+      },
+      {
+        "title": "Whose job is it to govern enterprise AI? Alteryx Inspire 2026 makes the case for putting analysts in charge",
+        "url": "https://diginomica.com/whose-job-it-govern-enterprise-ai-alteryx-inspire-2026-makes-case-putting-analysts-charge",
+        "source": "Diginomica",
+        "score": 7,
+        "summary": "Article explores the organizational question of who should govern enterprise AI implementation, with Alteryx advocating for business analysts rather than IT or vendors to control AI's business logic layer. Features a real-world case study from Charlotte Pipe showing this approach in practice.",
+        "category": "Enterprise & ERP"
+      },
+      {
+        "title": "Anthropic\u2019s Code with Claude showed off coding\u2019s future\u2014whether you like it or not",
+        "url": "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/",
+        "source": "MIT Technology Review",
+        "score": 8,
+        "summary": "Anthropic's developer event showcased Claude's coding capabilities and the future of AI-assisted software development. The timing alongside Google I/O suggests intensifying competition in the AI coding space with significant implications for how software is built.",
+        "category": "Tech Strategy & Analysis"
+      },
+      {
+        "title": "Linus Torvalds on the AI claim that makes him angry, and what security researchers should never do",
+        "url": "https://www.zdnet.com/article/linus-torvalds-has-a-love-hate-relationship-with-ai/",
+        "source": "ZDNet Enterprise",
+        "score": 7,
+        "summary": "Linus Torvalds shares his perspective on AI's impact on programming and development, offering insights from one of the most influential figures in open-source software. His views on AI as a tool for developers and potential security implications carry weight given his role in creating Linux, which underlies much of the modern tech infrastructure.",
+        "category": "Enterprise & ERP"
+      },
+      {
+        "title": "Tech researchers are suing the Trump administration over the future of online safety",
+        "url": "https://www.technologyreview.com/2026/05/21/1137632/lawsuit-trump-administration-online-safety-coalition-for-independent-technology-research/",
+        "source": "MIT Technology Review",
+        "score": 7,
+        "summary": "Researchers studying online safety are suing the Trump administration over restrictions on their work countering hate speech and disinformation. The lawsuit could have significant implications for content moderation research and platform regulation globally.",
+        "category": "Tech Strategy & Analysis"
+      },
+      {
+        "title": "Launch HN: Runtime (YC P26) \u2013 Sandboxed coding agents for everyone on a team",
+        "url": "https://www.runtm.com/",
+        "source": "Hacker News",
+        "score": 8,
+        "summary": "YC-backed Runtime launches sandboxed coding agents that enable team-wide deployment of AI agents for software development tasks. This represents a significant step toward democratizing AI agent deployment in enterprise environments with proper security controls.",
+        "category": "Community & Practitioner"
+      },
+      {
+        "title": "The Economics of AI Inference: Inflation Dynamics, Welfare Costs, and Optimal Monetary Policy under the Inference-Cost Phillips Curve",
+        "url": "https://arxiv.org/abs/2605.20281",
+        "source": "arXiv - Economics & Tech Policy",
+        "score": 7,
+        "summary": "Academic paper develops theoretical framework connecting AI inference costs to macroeconomic inflation dynamics through an 'Inference-Cost Phillips Curve' model. Represents serious economic modeling of AI's systemic impact on monetary policy and welfare, though highly theoretical.",
+        "category": "AI & Research"
+      },
+      {
+        "title": "How Deepfakes Tore a High School Apart",
+        "url": "https://www.404media.co/radnor-high-school-pennsylvania-ai-deepfakes-child-sexual-abuse-material/",
+        "source": "404 Media",
+        "score": 7,
+        "summary": "A Pennsylvania high school case involving AI-generated child sexual abuse material targeting five teen girls has become a reference point for how institutions handle deepfake crimes against minors. The incident illustrates the real-world regulatory and policy challenges that AI technology poses for schools and law enforcement nationwide.",
+        "category": "Tech Strategy & Analysis"
+      },
+      {
+        "title": "Meta and Google get data from the app your boss uses to track you",
+        "url": "https://www.theverge.com/policy/935299/bossware-employer-surveillance",
+        "source": "The Verge",
+        "score": 8,
+        "summary": "Study reveals workplace monitoring software shares employee data with Meta, Google and data brokers, raising significant privacy and regulatory concerns. This highlights how enterprise software increasingly feeds big tech platforms while creating potential compliance risks for businesses.",
+        "category": "Broad Tech News"
+      },
+      {
+        "title": "GitHub faces a fight for its survival at Microsoft",
+        "url": "https://www.theverge.com/tech/935250/microsoft-github-struggles-notepad",
+        "source": "The Verge",
+        "score": 8,
+        "summary": "GitHub is facing significant challenges including outages, security issues, and competitive pressure that threaten its position within Microsoft's ecosystem. This represents a major strategic concern given GitHub's central role in the developer ecosystem and Microsoft's broader enterprise strategy.",
+        "category": "Broad Tech News"
+      }
+    ]
   }
 ]
